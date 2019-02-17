@@ -1,0 +1,7 @@
+Thuat toan crc
+
+- La thuat toan kiem tra loi & phat hien loi cua 1 goi tin gui qua mang
+- Kiem tra xem goi tin co bi sai lech du lieu hay khong?
+- Dieu nay rat quan trong trong viec truyen tai du lieu qua mang.
+
+Tham khao tai: https://github.com/damieng/DamienGKit/tree/master/CSharp/DamienG.Library/Security/Cryptography
